@@ -1,0 +1,51 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px  black;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: oblique;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    font-size: 25px;
+    color: black;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+main {
+    margin-top: 20px;
+}
+
+main p {
+    margin: 10px 0;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bolder;
+    
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+}

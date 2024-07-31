@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.container{
+    margin: 30px;
+    display:inline-flex;
+    
+    justify-content: space-around;
+}

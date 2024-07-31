@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+   background-color: rgba(0, 0, 0, 0.7);
+   background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-blue-light-sense-smart-technology-background-material-picture-image_979598.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.contai h1 {
+    background-color: chocolate;
+    color: rgb(46, 13, 13);
+    font-size: 38px;
+    align-items: center;
+    width: 1000px;
+    height: 40px;
+    animation-name: h1;
+    animation-duration: 3s;
+    margin-top: 20px;
+
+}
+h2{
+   background-color: deepskyblue;
+   color: rgb(59, 44, 4);
+   width: 500px;
+   height: 30px;
+   margin-top: 30px;
+   font-size: 30px;
+   margin-left: 30px;
+   animation-name: h2;
+   animation-duration: 3s;
+}
+@keyframes h1 {
+   0% {
+       height: 40px;
+       width: 200px;
+       opacity: 0;
+
+   }
+   100% {
+       width: 1000px;
+       font-size: 35px;
+   }
+}
+.contai img {
+   width: 400px;
+   height: 300px;
+   margin-top: 30px;
+   margin-left: 40px;
+   box-shadow: 0 0 1px rgb(151, 205, 230),
+   0 0 10px rgb(113, 50, 117),0 0 12px rgb(111, 69, 178),
+   0 0 100px rgb(93, 71, 90),0 0 15px rgb(127, 76, 119);;
+   
+}
+.cont img {
+   margin-top: 30px;
+   width: 400px;
+   height: 300px;
+   margin-left: 40px;
+   box-shadow: 0 0 1px rgb(151, 205, 230),
+   0 0 10px rgb(113, 50, 117),0 0 12px rgb(111, 69, 178),
+   0 0 100px rgb(93, 71, 90),0 0 15px rgb(127, 76, 119);;
+}
+.cont h2 {
+   color: rgb(15, 2, 19);
+   background-color: royalblue;
+   font-size: 30px;
+   height: 40px;
+   margin-top: 50px;
+   animation-name: h2;
+   animation-duration: 3s;
+
+}
+@keyframes h2 {
+   0% {
+       height: 40px;
+       width: 200px;
+       opacity: 0;
+
+   }
+   100% {
+       width: 1000px;
+       font-size: 35px;
+   }
+
+   }
+.con img {
+   width: 500px;
+   height:500px ;
+   margin-left: 40px;
+   box-shadow: 0 0 1px rgb(151, 205, 230),
+   0 0 10px rgb(113, 50, 117),0 0 12px rgb(111, 69, 178),
+   0 0 100px rgb(93, 71, 90),0 0 15px rgb(127, 76, 119);;
+
+}
+.con h2 {
+   background-color: orchid;
+   color: rgb(28, 9, 9);
+   font-size: 30px;
+   width: 600px;
+   height: 40px;
+}
+.int h2{
+   background-color: rgb(180, 127, 231);
+   color: rgb(0, 0, 4);
+   font-size: 30px;
+   width: 600px;
+   height: 40px;
+}
+.int img {
+   width: 500px;
+   height: 400px;
+   margin-left: 40px;
+   box-shadow: 0 0 1px rgb(151, 205, 230),
+   0 0 10px rgb(113, 50, 117),0 0 12px rgb(111, 69, 178),
+   0 0 100px rgb(93, 71, 90),0 0 15px rgb(127, 76, 119);;
+   
+}

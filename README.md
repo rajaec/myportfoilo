@@ -17,4 +17,4 @@ Include a few personal details on your "About Me" page to make it more memorable
 Consider the design
 A bad design can make you look incompetent, so it might be better to have no portfolio website than one that looks bad.
 
-[your link here]{https://rajaapolamarasetti.netlify.app/}
+[Your Link Here]{https://rajaapolamarasetti.netlify.app/}

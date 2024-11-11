@@ -2,7 +2,7 @@ A portfolio website is a space online that showcases your work, skills, and expe
 Make it easy to navigate
 Prioritize simplicity so your site is visually appealing and easy to navigate. 
  
-Use a consistent design
+Use a consistent design.
 Use a consistent design, color scheme, and domain to enhance your personal brand. 
  
 Add client testimonials
